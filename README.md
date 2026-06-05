@@ -163,25 +163,22 @@ Revenue Growth
 
 blinkit-sales-analysis-dashboard/
 
-├── dashboard/
+── dashboard/
 
-│ └── Blinkit_Sales_Dashboard.pbix
-│
+└── Blinkit_Sales_Dashboard.pbix
 
-├── dataset/
 
-│ └── blinkit_sales_data.csv
+── dataset/
 
-│
+└── blinkit_sales_data.csv
 
-├── screenshots/
 
-│ └── dashboard-overview.png
+─ screenshots/
 
-│
-├── README.md
+└── dashboard-overview.png
 
-│
+── README.md
+
 └── insights.md
 
 ---
